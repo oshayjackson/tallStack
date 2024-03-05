@@ -1,2 +1,1 @@
-# tallStack
-todo app utilizing tall stack
+# Todo App
